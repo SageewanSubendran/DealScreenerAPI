@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DealScreener.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3eb365c3d5e15dce91fb6e8aa0052b09852d6d0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdbc4f977d420cbacc473133b3886956dfd6f6da")]
 [assembly: System.Reflection.AssemblyProductAttribute("DealScreener.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DealScreener.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

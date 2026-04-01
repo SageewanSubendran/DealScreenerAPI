@@ -1,0 +1,9 @@
+D:\Github Repos\DealScreenerAPI\src\DealScreener.API\obj\Debug\net10.0\DealScreener.API.csproj.AssemblyReference.cache
+D:\Github Repos\DealScreenerAPI\src\DealScreener.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Github Repos\DealScreenerAPI\src\DealScreener.API\obj\Debug\net10.0\DealScreener.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DealScreenerAPI\src\DealScreener.API\obj\Debug\net10.0\DealScreener.API.AssemblyInfoInputs.cache
+D:\Github Repos\DealScreenerAPI\src\DealScreener.API\obj\Debug\net10.0\DealScreener.API.AssemblyInfo.cs
+D:\Github Repos\DealScreenerAPI\src\DealScreener.API\obj\Debug\net10.0\DealScreener.API.csproj.CoreCompileInputs.cache
+D:\Github Repos\DealScreenerAPI\src\DealScreener.API\obj\Debug\net10.0\DealScreener.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Github Repos\DealScreenerAPI\src\DealScreener.API\obj\Debug\net10.0\DealScreener.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Github Repos\DealScreenerAPI\src\DealScreener.API\obj\Debug\net10.0\DealScreener.API.sourcelink.json
