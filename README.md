@@ -1,9 +1,7 @@
 # DealScreenerAPI
 Given data regarding a real estate deal, API will return key data to determine the strength of the deal.
 
-# DealCheck API
-
-A high-performance .NET 8 Web API that analyzes real estate investment deals.
+The DealScreener API is a high-performance .NET 8 Web API that analyzes real estate investment deals.
 
 ## Features
 - Cash flow analysis

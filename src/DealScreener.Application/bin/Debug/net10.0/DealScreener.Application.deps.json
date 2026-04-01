@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DealScreener.Application/1.0.0": {
+        "dependencies": {
+          "DealScreener.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DealScreener.Application.dll": {}
+        }
+      },
+      "DealScreener.Domain/1.0.0": {
+        "runtime": {
+          "DealScreener.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DealScreener.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DealScreener.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

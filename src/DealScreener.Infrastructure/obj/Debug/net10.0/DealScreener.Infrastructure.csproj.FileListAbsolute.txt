@@ -1,0 +1,12 @@
+D:\Github Repos\DealScreenerAPI\src\DealScreener.Infrastructure\bin\Debug\net10.0\DealScreener.Infrastructure.deps.json
+D:\Github Repos\DealScreenerAPI\src\DealScreener.Infrastructure\bin\Debug\net10.0\DealScreener.Infrastructure.dll
+D:\Github Repos\DealScreenerAPI\src\DealScreener.Infrastructure\bin\Debug\net10.0\DealScreener.Infrastructure.pdb
+D:\Github Repos\DealScreenerAPI\src\DealScreener.Infrastructure\obj\Debug\net10.0\DealScreener.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DealScreenerAPI\src\DealScreener.Infrastructure\obj\Debug\net10.0\DealScreener.Infrastructure.AssemblyInfoInputs.cache
+D:\Github Repos\DealScreenerAPI\src\DealScreener.Infrastructure\obj\Debug\net10.0\DealScreener.Infrastructure.AssemblyInfo.cs
+D:\Github Repos\DealScreenerAPI\src\DealScreener.Infrastructure\obj\Debug\net10.0\DealScreener.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Github Repos\DealScreenerAPI\src\DealScreener.Infrastructure\obj\Debug\net10.0\DealScreener.Infrastructure.sourcelink.json
+D:\Github Repos\DealScreenerAPI\src\DealScreener.Infrastructure\obj\Debug\net10.0\DealScreener.Infrastructure.dll
+D:\Github Repos\DealScreenerAPI\src\DealScreener.Infrastructure\obj\Debug\net10.0\refint\DealScreener.Infrastructure.dll
+D:\Github Repos\DealScreenerAPI\src\DealScreener.Infrastructure\obj\Debug\net10.0\DealScreener.Infrastructure.pdb
+D:\Github Repos\DealScreenerAPI\src\DealScreener.Infrastructure\obj\Debug\net10.0\ref\DealScreener.Infrastructure.dll

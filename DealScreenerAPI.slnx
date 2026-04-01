@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DealScreener.Application/DealScreener.Application.csproj" />
+    <Project Path="src/DealScreener.Domain/DealScreener.Domain.csproj" />
+    <Project Path="src/DealScreener.Infrastructure/DealScreener.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DealScreener.Tests/DealScreener.Tests.csproj" />
+  </Folder>
+</Solution>

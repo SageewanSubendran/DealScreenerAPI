@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "41eokY3sjQA=",
+  "success": true,
+  "projectFilePath": "D:\\Github Repos\\DealScreenerAPI\\src\\DealScreener.API\\DealScreener.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sageewan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\Sageewan\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

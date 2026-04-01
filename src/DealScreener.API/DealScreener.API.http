@@ -1,0 +1,6 @@
+@DealScreener.API_HostAddress = http://localhost:5145
+
+GET {{DealScreener.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
